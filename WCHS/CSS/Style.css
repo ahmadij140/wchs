@@ -1,0 +1,79 @@
+@charset "utf-8";
+body {
+	text-align: center
+	background-image: -webkit-linear-gradient(90deg,rgba(0,0,0,1.00) 0%,rgba(197,179,88,1.00) 64.25%,rgba(219,207,155,1.00) 100%);
+	background-image: -moz-linear-gradient(90deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(182,162,63,1.00) 41.98%,rgba(222,211,163,1.00) 88.60%);
+	background-image: -o-linear-gradient(90deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(182,162,63,1.00) 41.98%,rgba(222,211,163,1.00) 88.60%);
+	background-image: -webkit-linear-gradient(90deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(182,162,63,1.00) 41.98%,rgba(222,211,163,1.00) 88.60%);
+	background-image: linear-gradient(0deg,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(182,162,63,1.00) 41.98%,rgba(222,211,163,1.00) 88.60%);
+}
+h1 {
+	color: #C5B358;
+	text-align: center;
+	font-family: cantata-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 100px;
+	right: 40%;
+	text-shadow: 5px 5px 6px #000000;
+	background-image: url(../images/Wchs/wchs.png);
+	background-repeat: no-repeat;
+	background-position: 50% 0%;
+	background-size: 128px auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2 {
+	font-family: convergence;
+	font-style: normal;
+	font-weight: 400;
+	color: #C5B358;
+	text-shadow: 3px 3px 7px #0D0D0D;
+}
+
+
+body img {
+
+}
+
+body img {
+}
+#crew {
+	width: 150px;
+	height: auto;
+}
+#Paragraph {
+	font: actor;
+	font-size: 18px;
+}
+#TopofCal {
+	text-align: left;
+}
+#Line {
+	width: 500px;
+	height: 5px;
+	background-color: #000000;
+	color: black;
+	border: 0px;
+}
+#crewtable {
+	margin-right: auto;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+	background-image: -webkit-linear-gradient(0deg,rgba(197,179,88,1.00) 0%,rgba(210,196,127,1.00) 49.22%,rgba(197,179,88,1.00) 100%);
+	background-image: -moz-linear-gradient(0deg,rgba(197,179,88,1.00) 0%,rgba(210,196,127,1.00) 49.22%,rgba(197,179,88,1.00) 100%);
+	background-image: -o-linear-gradient(0deg,rgba(197,179,88,1.00) 0%,rgba(210,196,127,1.00) 49.22%,rgba(197,179,88,1.00) 100%);
+	background-image: linear-gradient(90deg,rgba(197,179,88,1.00) 0%,rgba(210,196,127,1.00) 49.22%,rgba(197,179,88,1.00) 100%);
+}
+
+.tableStyle{
+	text-align: center;
+}
+#WCHSlogo {
+	padding-left: 20px;
+}
+#List {
+	color: #C5B358;
+	text-align: center;
+}
